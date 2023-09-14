@@ -1,4 +1,4 @@
-### Piss off Banta!
+### Ask me about my fav emoji!
 
 <!--
 **jmanhart/jmanhart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
