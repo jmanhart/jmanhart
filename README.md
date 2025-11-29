@@ -1,16 +1,16 @@
-### Ask me about my fav emoji!
+## 👋 Hey, I’m John
 
-<!--
-**jmanhart/jmanhart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like drawing boxes, thinking about drawing boxes, and figuring out better ways to draw them with other people _(sometimes in code)_. These days that means working across **product design**, **prototyping**, and a bit of **frontend engineering**.
 
-Here are some ideas to get you started:
+I have **12+ years of experience** designing and building digital products. I’ve spent **6+ years at Sentry** designing and scaling core product experiences, systems, and developer-focused tools. I care about craft, systems thinking, and building things that stay clear and intentional as they grow.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Experience
+
+- **Sentry** (2019–Present) — Product design leadership & IC work  
+- **Garmin** (2017–2019) — Product design, systems, wellness features  
+- **Marlin Connections** (2013–2017) — Design + frontend in agency land  
+- **Full resume (terminal)** `npx manhart-resume`
+
+🔗 [LinkedIn](https://www.linkedin.com/)  
+🌐 [manhart.io](https://www.manhart.io/)
+
