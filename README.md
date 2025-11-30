@@ -9,7 +9,7 @@ I have **12+ years of experience** designing and building digital products. I’
 - **Sentry** (2019–Present) — Product design leadership & IC work  
 - **Garmin** (2017–2019) — Product design, systems, wellness features  
 - **Marlin Connections** (2013–2017) — Design + frontend in agency land  
-- **Full resume (terminal)** `npx manhart-resume`
+- **Full resume** `npx manhart-resume`
 
 🔗 [LinkedIn](https://www.linkedin.com/)  
 🌐 [manhart.io](https://www.manhart.io/)
